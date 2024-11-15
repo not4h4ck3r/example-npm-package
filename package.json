@@ -1,21 +1,21 @@
 {
-  "name": "@clarkio/simple-npm-package",
-  "version": "0.0.2",
-  "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
+  "name": "crazycoolreact",
+  "version": "5.0.0",
+  "description": "Crazy Cool React package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clarkio/simple-npm-package.git"
+    "url": "git+https://github.com/bitauth/libauth.git"
   },
-  "author": "clarkio",
+  "author": "libauth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clarkio/simple-npm-package/issues"
+    "url": "https://github.com/bitauth/libauth.git/issues"
   },
-  "homepage": "https://github.com/clarkio/simple-npm-package#readme",
+  "homepage": "https://github.com/bitauth/libauth.git",
   "keywords": [
     "node.js",
     "javascript",
